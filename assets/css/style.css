@@ -1,0 +1,38 @@
+h1 {
+    margin: 20px;
+    font-size: 40px;
+    text-align: center;
+}
+
+#startButton {
+    font-size: 30px;
+}
+
+div {
+    text-align: center;
+}
+
+.background {
+    background-image: url("http://backgroundcheckall.com/wp-content/uploads/2017/12/craft-beer-background-11.jpg");
+    margin-top: 20px;
+    margin-bottom:20px;
+    height: 700px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.jumbotron {
+    position: absolute;
+    background-image: url("http://backgroundcheckall.com/wp-content/uploads/2017/12/beer-background-4.jpg");
+    background-size: cover;
+    height: 500px;
+    width: 900px;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 20px;
+    top: 60px;
+}
+
+
+
+
